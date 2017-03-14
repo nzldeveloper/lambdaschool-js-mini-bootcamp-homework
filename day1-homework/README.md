@@ -5,10 +5,15 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Variables
+		*response: these create a name for some kind of value so that you can use it again later without having to type out the value. For example, if you're going to use "Hi. My name is " a lot, then you can make that sentence a variable and call it "intro". Then any time you need it afterwards, you just have to type in "intro" instead of the entire sentence. 
 	* Strings
+		*response: these are letters or sentences and are included in quotation marks. 
 	* Functions (arguments, `return`)
+		*response: functions are a list of actions that performs a task or calculates a value. When creating the function, you list out parameters. When actually calling for the function to perform the task, you enter the arguments you need. When writing a function, "return" stops the function and tells the function what final value it should output. 
 	* `if` statements
+		*response: these are conditional statements. For example, if something is true, do one thing, if not, do another. Like "If you studied today, you can play video games. If not, you can't." 
 	* Boolean values (`true`, `false`)
+		*response: these values are true or false statements. 
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
